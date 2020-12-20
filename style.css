@@ -1,1 +1,19 @@
+body {
+  background-color:purple;
+  font-family: Arial, Times New Roman, Arial Black;
+  margin:10px; 
+  
+}
 
+h1 {
+  font-family: Arial, Times New Roman, Arial Black;
+}
+
+.exp-header {
+  text-transform: uppercase;
+  border-top: 1px solid;
+  border-bottom: 1px solid; 
+  text-align: center;
+  
+ 
+}
